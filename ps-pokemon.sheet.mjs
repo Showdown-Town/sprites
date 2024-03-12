@@ -415,6 +415,9 @@ const BattlePokemonIconIndexes = {
 	urshifugmax: 1320 + 82,
 	urshifurapidstrikegmax: 1320 + 83,
 
+	//New Megas
+	centiskorchmega: 1320 + 70,
+
 	// CAP
 	syclant: 1512 + 0,
 	revenankh: 1512 + 1,
